@@ -1,0 +1,11 @@
+import sys
+import os
+
+# Ensure the src directory is mapped for enterprise imports
+sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
+
+from src.gui import ToolManagerGUI
+
+if __name__ == "__main__":
+    app = ToolManagerGUI()
+    app.mainloop()
