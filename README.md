@@ -128,7 +128,7 @@ This project was built with a strict adherence to the **Separation of Concerns (
 
 To understand the engineering decisions behind the multi-threading model and the adaptive payload routing, please explore the architecture document below:
 
-### 👉 [View Detailed System Architecture](./SYSTEM_ARCHITECTURE.md)
+### 👉 [View Detailed System Architecture](./System_Architecture.md)
 
 ---
 
