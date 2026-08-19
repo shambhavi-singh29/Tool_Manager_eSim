@@ -43,6 +43,19 @@ Historically, manual installation has been:
 
 ---
 
+## <font color="#2563eb">**✅ FOSSEE Requirements Mapping**</font>
+
+This project was engineered to explicitly meet and exceed the FOSSEE screening task requirements:
+
+| FOSSEE Requirement | My Implementation |
+| :--- | :--- |
+| **Tool Installation Management** | Engineered dynamic `platform.system()` routing to fetch OS-specific payloads for Windows, macOS, and Linux automatically. |
+| **Dependency Checker** | Built a "Pre-Flight Diagnostics" module that scans local system paths to prevent redundant installations and verifies local disk storage. |
+| **User Interface** | Upgraded the requested basic CLI into a multi-threaded, dark-mode `CustomTkinter` desktop application with a live telemetry console. |
+| **Cross-Platform Support (Bonus)** | Completely OS-agnostic. Safely routes heavy tools (KiCad) via browser gateways while extracting portable binaries (Ngspice/Verilator) natively. |
+
+---
+
 ## <font color="#2563eb">**⚙️ Installation**</font>
 
 ### 1. Clone the repository
