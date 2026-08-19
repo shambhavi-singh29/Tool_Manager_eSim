@@ -135,7 +135,7 @@ esim-tool-manager/
 
 ---
 
-## <font color="#2563eb">**🧠 [Design Overview](./SYSTEM_ARCHITECTURE.md)**</font>
+## <font color="#2563eb">**🧠 [Design Overview](./System_Architecture.md)**</font>
 
 This project was built with a strict adherence to the **Separation of Concerns (SoC)** principle, isolating the Presentation Layer (GUI) from the Business Logic Layer (Engine).
 
