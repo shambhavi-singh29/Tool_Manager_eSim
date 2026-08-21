@@ -111,9 +111,9 @@ Upon launching `run.py`, the main diagnostic dashboard will open. The workflow i
 
 ## <font color="#2563eb">**🎥 Demo Video**</font>
 
-A comprehensive 2-minute walkthrough showcasing the intuitive GUI, OS-aware routing logic, and background multi-threading in action:
+A comprehensive 5-minute walkthrough showcasing the intuitive GUI, OS-aware routing logic, and background multi-threading in action:
 
-👉 [Watch the Full Demo Video Here](INSERT_YOUR_VIDEO_LINK_HERE)
+👉 [Watch the Full Demo Video Here](https://drive.google.com/file/d/1FPJenCIptm8iGxEEdfeWVZSTbfDMvW8e/view?usp=sharing)
 
 ---
 
